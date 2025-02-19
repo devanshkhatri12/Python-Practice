@@ -17,7 +17,7 @@ Assign a letter grade based on a student's score: A(90-100), B(80-89), C(70-79),
 
 <details>
 <summary>4. Fruit Ripeness Checker</summary>
-Determine if a fruit is ripe, overripe, or unripe based on its color. (e.g., Banana: Green - Unique, Yellow - Ripe, Brown - Overripe)
+Determine if a fruit is ripe, overripe, or unripe based on its color. (e.g., Banana: Green - Unripe, Yellow - Ripe, Brown - Overripe)
 </details>
 
 <details>
